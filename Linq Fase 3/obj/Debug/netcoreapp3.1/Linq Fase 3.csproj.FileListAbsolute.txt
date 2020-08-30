@@ -1,0 +1,12 @@
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\bin\Debug\netcoreapp3.1\Linq Fase 3.exe
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\bin\Debug\netcoreapp3.1\Linq Fase 3.deps.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\bin\Debug\netcoreapp3.1\Linq Fase 3.runtimeconfig.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\bin\Debug\netcoreapp3.1\Linq Fase 3.runtimeconfig.dev.json
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\bin\Debug\netcoreapp3.1\Linq Fase 3.dll
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\bin\Debug\netcoreapp3.1\Linq Fase 3.pdb
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\obj\Debug\netcoreapp3.1\Linq Fase 3.AssemblyInfoInputs.cache
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\obj\Debug\netcoreapp3.1\Linq Fase 3.AssemblyInfo.cs
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\obj\Debug\netcoreapp3.1\Linq Fase 3.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\obj\Debug\netcoreapp3.1\Linq Fase 3.dll
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\obj\Debug\netcoreapp3.1\Linq Fase 3.pdb
+C:\Users\Karina\Desktop\Karina\.NEt\Ejercicios5\Linq Fase 3\obj\Debug\netcoreapp3.1\Linq Fase 3.genruntimeconfig.cache
